@@ -8,7 +8,7 @@ This project demonstrates how to use Webpack to bundle JavaScript resources with
     <li>Features</li>
     <li>Prerequisites</li>
     <li>Installation</li>
-    <li>Usage</li>
+    <li>Scripts</li>
 </ul>
 
 <h2>Introduction</h2>
@@ -27,4 +27,16 @@ Before you begin, ensure you have met the following requirements:
 <ul>
     <li>Node.js and npm installed</li>
     <li>Basic understanding of TypeScript and Webpack</li>
+</ul>
+
+<h2>Installation</h2>
+Just run
+```
+npm install
+```
+
+<h2>Scripts</h2>
+<ul>
+    <li>`npm run build`: Transpiles TypeScript files and bundles them using Webpack.</li>
+    <li>`npm start`: Starts the Webpack development server with live reloading.</li>
 </ul>
