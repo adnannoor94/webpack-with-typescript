@@ -1,4 +1,4 @@
-# JS for web though Typescript using webpack
+# JS for web through Typescript using webpack
 
 This project demonstrates how to use Webpack to bundle JavaScript resources with TypeScript as the source code. The project is configured to transpile TypeScript files, bundle them, and output a single JavaScript file ready for use in a web application.
 
@@ -31,9 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 <h2>Installation</h2>
 Just run
-```
-npm install
-```
+`npm install`
 
 <h2>Scripts</h2>
 <ul>
